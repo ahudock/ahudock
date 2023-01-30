@@ -1,15 +1,13 @@
 # ANDY HUDOCK
 
-#### FULL-STACK DEVELOPER
+>Full-stack developer with 15 years experience  
+supporting a diverse clientele across a variety of sectors
 
 [Gulf Canyon, Oregon](https://goo.gl/maps/r2EFWcvepfLCf2CM8)  
 [541.543.7626](+tel:15415437626)  
 [ahudock@pm.me](mailto:ahudock@pm.me)  
 www.jrandom.com  
 www.linkedin.com/in/andyhudock
-
->Full-stack developer with 15 years experience  
-supporting a diverse clientele across a variety of sectors
 
 ## SKILLS
 
@@ -37,11 +35,10 @@ supporting a diverse clientele across a variety of sectors
 - Python programming (novice)
 
 ### CMS/eCommerce <code>[**** ]</code>
-- Magento (Magento 1, Magento 2, OpenMage, MageOne)
-- Drupal, WordPress, Joomla! (older versions), WIX (novice)
+- Magento (M1, M2, OpenMage), Drupal, WordPress
 - Several custom/proprietary systems
 
-### CyberSecurity <code>[*    ]</code>
+### CyberSecurity <code>[**   ]</code>
 - Threat analysis, forensics, pen. testing (HTB rank: Noob)
 - Kali, Metasploit, Nmap, etc.
 

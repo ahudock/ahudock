@@ -73,7 +73,7 @@ www.linkedin.com/in/andyhudock
 
 ## EXPERIENCE
 
-### Freelance Full-stack Developer, J. Random LLC (global), 2008--present
+### Freelance Full-Stack Developer, J. Random LLC (global), 2008--present
 - Programming, sysadmin, cybersecurity for various clients and agencies
 - IT systems and network infrastructure installation, config., support
 - Web/graphic/UX design, digital imaging
@@ -100,7 +100,7 @@ www.linkedin.com/in/andyhudock
 - Contract ColdFusion programming and frontend development
 - Successfully implemented, launched a major overhaul of their website
 
-### Full-stack Developer, Audient Consulting (Portland, OR), 2007--2014
+### Full-Stack Developer, Audient Consulting (Portland, OR), 2007--2014
 - LAMP, Windows, IIS, ColdFusion sysadmin and development
 - Flash development and ActionScript programming
 - Frontend development

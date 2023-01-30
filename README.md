@@ -10,19 +10,19 @@ www.linkedin.com/in/andyhudock
 
 ## SKILLS
 
-### Versatility, adaptability, creativity and persistence
+**Versatility, adaptability, creativity and persistence**
 
-### SysAdmin              <code>[**** ]</code>
-### Web Development       <code>[**** ]</code>
-### eCommerce & CMS       <code>[**** ]</code>
-### CyberSecurity         <code>[**   ]</code>
-### Machine Learning      <code>[*    ]</code>
-### IT & Networks         <code>[***  ]</code>
-### StackOverflow         <code>[*****]\*\*</code>
-### Project Management    <code>[**   ]</code>
-### Music, Art, & Design  <code>[**   ]</code>
-### Quant. & Trading      <code>[**   ]</code>
-### Custom PC             <code>[*****]</code>
+SysAdmin              <code>[**** ]</code>  
+Web Development       <code>[**** ]</code>  
+eCommerce & CMS       <code>[**** ]</code>  
+CyberSecurity         <code>[**   ]</code>  
+Machine Learning      <code>[*    ]</code>  
+IT & Networks         <code>[***  ]</code>  
+StackOverflow         <code>[*****]\*\*</code>  
+Project Management    <code>[**   ]</code>  
+Music, Art, & Design  <code>[**   ]</code>  
+Quant. & Trading      <code>[**   ]</code>  
+Custom PC             <code>[*****]</code>  
 
 ## EXPERIENCE
 

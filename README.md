@@ -28,7 +28,8 @@ Custom PC             [*****]
 
 ### Freelance Full-Stack Developer, J. Random LLC (global), 2008--present
 - Programming, sysadmin, cybersecurity for various clients and agencies
-- IT systems and network infrastructure installation, config., support
+- System design and implementation, customization, debug, optimization
+- IT systems and network infrastructure installation, config, support
 - Web/graphic/UX/UI design, digital imaging
 - Diverse clientele across a wide range of sectors, including:
 	- Argyle Winery

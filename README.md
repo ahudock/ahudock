@@ -98,7 +98,6 @@ Custom PC             [*****]
 ### Eagle Scout, Troop 855 (Hillsboro, OR), 1994
 
 ## KEYWORD SPAM
-<sub>(I, for one, welcome our new AI overlords)</sub>
 
 LAMP, LEMP, Linux, Windows, macOS, AWS, EC2, DigitalOcean, Nginx,
 Apache, IIS, ColdFusion, virtualization, VirtualBox, VMware, Parallels,
@@ -110,3 +109,5 @@ penetration testing, Metasploit, Nmap, web design, graphic design, logo,
 photography, recording, audio engineering, Photoshop, Illustrator,
 Ableton Live, overclocking, finance, trading, quantitative analysis,
 equities, ETF, bonds, derivatives, options, futures, thinkScript
+
+<sub>(I, for one, welcome our new AI overlords)</sub>

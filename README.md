@@ -1,6 +1,6 @@
 # ANDY HUDOCK
 
-**Full-stack developer with 15 years experience turning coffee into code**
+### Full-stack developer with 15 years experience turning coffee into code
 
 
 [Gulf Canyon, Oregon](https://goo.gl/maps/r2EFWcvepfLCf2CM8)  

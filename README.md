@@ -29,7 +29,7 @@ Custom PC             [*****]
 ### Freelance Full-Stack Developer, J. Random LLC (global), 2008--present
 - Programming, sysadmin, cybersecurity for various clients and agencies
 - IT systems and network infrastructure installation, config., support
-- Web/graphic/UX design, digital imaging
+- Web/graphic/UX/UI design, digital imaging
 - Diverse clientele across a wide range of sectors, including:
 	- Argyle Winery
 	- Travel Oregon
@@ -81,9 +81,8 @@ Custom PC             [*****]
 - World Champion as an instructor
 
 ### SFRC (Sang Froid Riding Club) Bol d'Oregon Spirit Award, 2018
-- 1968 Honda CL175
-- Team persevered to finish endurance race on an inexpensive 50-yr-old  
-  motorcycle in serious disrepair (and nearly weren't last)
+- Team persevered to finish endurance race on a 1968 Honda CL175
+  in serious disrepair (and nearly weren't last)
 
 ### OMRRA (Oregon Motorcycle Roadracing Association) Vintage Champion, 2020
 - 1966 Honda CB160RR
@@ -99,7 +98,7 @@ Custom PC             [*****]
 
 ## KEYWORD SPAM
 
-LAMP, LEMP, Linux, Windows, macOS, AWS, EC2, DigitalOcean, Nginx,
+*LAMP, LEMP, Linux, Windows, macOS, AWS, EC2, DigitalOcean, Nginx,
 Apache, IIS, ColdFusion, virtualization, VirtualBox, VMware, Parallels,
 firewall, iptables, OpenVPN, DNS, DevOps, PHP, MySQL, API, WebSocket,
 HTML, HTML5, CSS, CSS3, LESS, SCSS, Grunt, JavaScript, jQuery, AJAX,
@@ -108,6 +107,6 @@ Magento 1, Magento 2, OpenMage, Drupal, WordPress, forensics, Kali,
 penetration testing, Metasploit, Nmap, web design, graphic design, logo,
 photography, recording, audio engineering, Photoshop, Illustrator,
 Ableton Live, overclocking, finance, trading, quantitative analysis,
-equities, ETF, bonds, derivatives, options, futures, thinkScript
+equities, ETF, bonds, derivatives, options, futures, thinkScript*
 
-<sub>(I, for one, welcome our new AI overlords)</sub>
+*I, for one, welcome our new omniscient AI overlords.*

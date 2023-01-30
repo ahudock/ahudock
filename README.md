@@ -18,7 +18,7 @@ eCommerce & CMS       [**** ]
 CyberSecurity         [**   ]
 Machine Learning      [*    ]
 IT & Networks         [***  ]
-StackOverflow         [*****]\*\*
+StackOverflow         [*****]**
 Project Management    [**   ]
 Music, Art, & Design  [**   ]
 Quant. & Trading      [**   ]

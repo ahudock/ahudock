@@ -58,11 +58,11 @@ Custom PC             [*****]
 - Flash development and ActionScript programming
 - Frontend development
 
-**Music/Visual Instructor for numerous award-winning high school bands  
-  and drum and bugle corps** on the West Coast and abroad since 1998
-
-**Motorcycle Roadracing Novice Mentor, Track Day Instructor,  
-  and New Rider Coach** throughout the Pacific Northwest since 2017
+### Freelance Educator, J. Random LLC (global), 1998--present
+- Music/Visual Instructor for numerous award-winning high school bands  
+  and drum and bugle corps on the West Coast and abroad since 1998
+- Motorcycle Roadracing Novice Mentor, Track Day Instructor,  
+  and New Rider Coach throughout the Pacific Northwest since 2017
 
 ## EDUCATION
 

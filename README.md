@@ -1,7 +1,6 @@
 # ANDY HUDOCK
 
-### Full-Stack Developer with 15 years experience turning coffee into code
-
+### Full-Stack developer with 15 years experience turning coffee into code
 
 [Gulf Canyon, Oregon](https://goo.gl/maps/r2EFWcvepfLCf2CM8)  
 [541.543.7626](+tel:15415437626)  
@@ -13,63 +12,17 @@ www.linkedin.com/in/andyhudock
 
 ### Versatility, adaptability, creativity and persistence
 
-### SysAdmin <code>[**** ]</code>  
-- Proficiency with many flavors of Linux and Windows, macOS
-- AWS (EC2) and DigitalOcean
-- Nginx, Apache, IIS, and ColdFusion servers
-- Virtualization (VirtualBox, VMware, Parallels)
-- Firewall config, security groups, iptables, OpenVPN
-- Domain, DNS admin
-- DevOps (novice)
-- man
-
-### Web Development <code>[**** ]</code>
-- PHP and ColdFusion programming
-- MySQL (InnoDB, MariaDB, and Percona) and SQL Server
-- OOP, MVC frameworks, APIs, WebSocket
-- HTML (HTML5)
-- CSS (CSS3), LESS, SCSS, Grunt
-- JavaScript programming (inc. frameworks like jQuery), AJAX
-- RWD, accessibility, SEO, PageSpeed, search analytics
-- Version control (Git, GitHub, Bitbucket, SVN)
-- Python programming (novice)
-
-### CMS/eCommerce <code>[**** ]</code>
-- Magento (M1, M2, OpenMage), Drupal, WordPress
-- Several custom/proprietary systems
-
-### CyberSecurity <code>[**   ]</code>
-- Threat analysis, forensics, pen. testing (HTB rank: Noob)
-- Kali, Metasploit, Nmap, etc.
-
-### IT <code>[**** ]</code>
-- Computer/network systems install, maintenance, admin
-- User support and education
-- Custom PC design, assembly, cooling, overclocking, performance tuning
-
-### StackOverflow <code>[*****]\*\*</code>
-
-### Project Management <code>[**   ]</code>
-- Defining clear goals and objectives, and developing a plan
-- Managing resources, risk, stakeholder expectations
-- Identifying scope, subdividing, and accurately estimating tasks
-- Tracking progress and adapting to inevitable unforeseen challenges
-- Bookkeeping (QuickBooks Desktop)
-
-### Art and design <code>[**   ]</code>
-- Graphic design and illustration
-- Photography and digital imaging
-- Recording, music and video production, audio engineering
-- Adobe products and their open source counterparts
-- Ableton Live, Push, Fruity Loops, Reason, Cool Edit Pro/Audition
-
-### Finance <code>[**   ]</code>
-- Quantitative analysis
-- Equity, index, ETF, bond, options, and futures trading
-- thinkScript programming
-
-### Music performance and education <code>[***  ]</code>
-- Brass performance (primarily trumpet), pageantry and the marching arts
+### SysAdmin              <code>[**** ]</code>
+### Web Development       <code>[**** ]</code>
+### eCommerce & CMS       <code>[**** ]</code>
+### CyberSecurity         <code>[**   ]</code>
+### Machine Learning      <code>[*    ]</code>
+### IT & Networks         <code>[***  ]</code>
+### StackOverflow         <code>[*****]\*\*</code>
+### Project Management    <code>[**   ]</code>
+### Music, Art, & Design  <code>[**   ]</code>
+### Quant. & Trading      <code>[**   ]</code>
+### Custom PC             <code>[*****]</code>
 
 ## EXPERIENCE
 
@@ -144,10 +97,15 @@ www.linkedin.com/in/andyhudock
 
 ### Eagle Scout, Troop 855 (Hillsboro, OR), 1994
 
-```
-[*    ] Novice
-[**   ] Beginner
-[***  ] Intermediate
-[**** ] Advanced
-[*****] Expert
-```
+## KEYWORD SPAM (I, for one, welcome our new AI overlords)
+
+LAMP, LEMP, Linux, Windows, macOS, AWS, EC2, DigitalOcean, Nginx,
+Apache, IIS, ColdFusion, virtualization, VirtualBox, VMware, Parallels,
+firewall, iptables, OpenVPN, DNS, DevOps, PHP, MySQL, API, WebSocket,
+HTML, HTML5, CSS, CSS3, LESS, SCSS, Grunt, JavaScript, jQuery, AJAX,
+RWD, accessibility, SEO, PageSpeed, analytics, Git, SVN, Python, UI, UX,
+Magento 1, Magento 2, OpenMage, Drupal, WordPress, forensics, Kali,
+penetration testing, Metasploit, Nmap, web design, graphic design, logo,
+photography, recording, audio engineering, Photoshop, Illustrator,
+Ableton Live, overclocking, finance, trading, quantitative analysis,
+equities, ETF, bonds, derivatives, options, futures, thinkScript

@@ -2,11 +2,11 @@
 
 ### Full-Stack Developer with 15 years experience turning coffee into code
 
-[Gulf Canyon, Oregon](https://goo.gl/maps/r2EFWcvepfLCf2CM8)  
-[541.543.7626](+tel:15415437626)  
-[ahudock@pm.me](mailto:ahudock@pm.me)  
-www.jrandom.com  
-www.linkedin.com/in/andyhudock
+[Gulf Canyon, Oregon](https://goo.gl/maps/r2EFWcvepfLCf2CM8 "Open Gulf Canyon, Oregon in Google Maps")  
+[541.543.7626](+tel:15415437626 "Call Andy Hudock")  
+[ahudock@pm.me](mailto:ahudock@pm.me "Email Andy Hudock")  
+[jrandom.com](www.jrandom.com "J. Random LLC (Andy Hudock)")  
+[/in/andyhudock](www.linkedin.com/in/andyhudock "Andy Hudock | LinkedIn")
 
 ## SKILLS
 

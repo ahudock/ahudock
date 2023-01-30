@@ -11,7 +11,7 @@ www.linkedin.com/in/andyhudock
 ## SKILLS
 
 **Versatility, adaptability, creativity and persistence**
-<code>
+```
 SysAdmin              [**** ]
 Web Development       [**** ]
 eCommerce & CMS       [**** ]
@@ -23,8 +23,7 @@ Project Management    [**   ]
 Music, Art, & Design  [**   ]
 Quant. & Trading      [**   ]
 Custom PC             [*****]
-</code>
-
+```
 ## EXPERIENCE
 
 ### Freelance Full-Stack Developer, J. Random LLC (global), 2008--present

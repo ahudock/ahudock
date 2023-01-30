@@ -1,7 +1,7 @@
 # ANDY HUDOCK
 
-**Full-stack developer with 15 years experience  
-supporting a diverse clientele across a variety of sectors**
+**Full-stack developer with 15 years experience turning coffee into code**
+
 
 [Gulf Canyon, Oregon](https://goo.gl/maps/r2EFWcvepfLCf2CM8)  
 [541.543.7626](+tel:15415437626)  

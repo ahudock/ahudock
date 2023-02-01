@@ -3,9 +3,10 @@
 ### Full-Stack Developer with 15 years experience turning coffee into code
 
 [Gulf Canyon, Oregon](https://goo.gl/maps/r2EFWcvepfLCf2CM8 "Open Gulf Canyon, Oregon in Google Maps")  
-[541.543.7626](+tel:15415437626 "Call Andy Hudock")  
 [ahudock@pm.me](mailto:ahudock@pm.me "Email Andy Hudock")  
+[541.543.7626](+tel:15415437626 "Call Andy Hudock")  
 [jrandom.com](www.jrandom.com "J. Random LLC (Andy Hudock)")  
+[github.com/ahudock](www.github.com/ahudock "Andy Hudock | GitHub")
 [/in/andyhudock](www.linkedin.com/in/andyhudock "Andy Hudock | LinkedIn")
 
 ## SKILLS
@@ -15,40 +16,42 @@
 ```
 SysAdmin               [**** ]
 Web Development        [**** ]
-eCommerce & CMS        [**** ]
+eCommerce + CMS        [**** ]
 CyberSecurity          [**   ]
 Machine Learning       [*    ]
-IT & Networks          [***  ]
+IT + Networks          [***  ]
 StackOverflow          [*****]**
 Project Management     [**   ]
-Art & Design           [**   ]
+Art + Design           [**   ]
 Custom PC              [*****]
-Quant & Trading        [**   ]
-Music Ed & Performance [***  ]
+Quant + Trading        [**   ]
+Music Ed + Performance [***  ]
 ```
 
 ## EXPERIENCE
 
 ### Freelance Full-Stack Developer, J. Random LLC (global), 2008--null
-- Programming, sysadmin, cybersecurity for various clients and agencies
-- Serverside and frontend development, database architecture, CI
-- Web/graphic/UX/UI design, photography and digital imaging
-- IT systems and network infrastructure installation, config, support
+- Programming, sysadmin, cybersecurity, and design, mainly working with
+  small, local agencies like Harlo Interactive, ITPDX, ThreeProng, and
+  Premier Cru Solutions, along with several standalone clients
+- Served a diverse clientele, including Argyle Winery, Travel Oregon,
+  Erickson AV, Kettle Chips, Stages Cycling, ASICS SBA, eDealer and more
+- Generalist, but most experienced in LEMP/LAMP and frontend development
 
 ### HW/SW Technician, Intel Corp (Hillsboro, OR), 2005--2006
-- Contract hardware and software support for the CPU satellite
-- Built, tested, troubleshot bleeding-edge hardware components
+- Contract hardware and software support for the CPU Satellite
+- Built, tested, troubleshot, debugged bleeding-edge hardware components
 - Worked with various operating systems, VMs, and software platforms
 - Spearheaded several performance and energy-efficiency projects
 
 ### Web Developer, U.S. Bank (Gresham, OR), 2009--2010
 - Contract ColdFusion programming and frontend development
-- Dev team implemented a major overhaul of their customer-facing site
+- Supported ongoing operations, and the renovation and deployment of a
+  high-profile, high-traffic, high-availability, customer-facing website
 
 ### Full-Stack Developer, Audient Consulting (Portland, OR), 2007--2014
 - LAMP, Windows, IIS, ColdFusion sysadmin and development
-- Flash development and ActionScript programming
-- Frontend development
+- Flash development and ActionScript programming, frontend development
 
 ### Freelance Educator, J. Random LLC (global), 1998--null
 - Music/Visual Instructor for numerous award-winning high school bands
@@ -88,15 +91,14 @@ Music Ed & Performance [***  ]
 ## KEYWORD SPAM
 
 *LAMP, LEMP, Linux, Windows, macOS, AWS, EC2, DigitalOcean, Nginx,
-Apache, IIS, ColdFusion, virtualization, VirtualBox, VMware, Parallels,
-firewall, iptables, OpenVPN, DNS, DevOps, PHP, MySQL, API, WebSocket,
-HTML, HTML5, CSS, CSS3, LESS, SCSS, Grunt, JavaScript, jQuery, AJAX,
-RWD, accessibility, SEO, PageSpeed, analytics, Git, SVN, Python, UI,
-UX, Magento 1, Magento 2, OpenMage, Drupal, WordPress, forensics, Kali,
-penetration testing, Metasploit, Nmap, web design, graphic design,
-logo, photography, recording, audio engineering, Photoshop,
-Illustrator, Ableton Live, overclocking, finance, trading, quantitative
-analysis, equities, ETF, bonds, derivatives, options, futures,
-thinkScript*
+Apache, IIS, ColdFusion, virtualization, VirtualBox, VMware, firewall,
+iptables, OpenVPN, DNS, DevOps, PHP, MySQL, API, WebSocket, HTML5,
+CSS3, LESS, SCSS, JavaScript, jQuery, AJAX, RWD, accessibility, SEO,
+PageSpeed, analytics, Git, SVN, Python, UI, UX, CI, Magento 1, Magento
+2, OpenMage, Drupal, WordPress, forensics, Kali, pen testing,
+Metasploit, web design, graphic design, logo design, branding,
+photography, recording, audio engineering, Photoshop, Illustrator,
+Ableton, overclock, finance, trading, quantitative analysis,
+derivatives, options, futures, thinkScript, etm*
 
 > I, for one, welcome our new omniscient AI overlords

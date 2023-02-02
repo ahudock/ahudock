@@ -5,9 +5,9 @@
 [Gulf Canyon, Oregon](https://goo.gl/maps/r2EFWcvepfLCf2CM8 "Open Gulf Canyon, Oregon in Google Maps")  
 [ahudock@pm.me](mailto:ahudock@pm.me "Email Andy Hudock")  
 [541.543.7626](+tel:15415437626 "Call Andy Hudock")  
-[jrandom.com](www.jrandom.com "J. Random LLC (Andy Hudock)")  
-[github.com/ahudock](www.github.com/ahudock "Andy Hudock | GitHub")  
-[/in/andyhudock](www.linkedin.com/in/andyhudock "Andy Hudock | LinkedIn")  
+[jrandom.com](https://www.jrandom.com "J. Random LLC (Andy Hudock)")  
+[github.com/ahudock](https://www.github.com/ahudock "Andy Hudock | GitHub")  
+[/in/andyhudock](https://www.linkedin.com/in/andyhudock "Andy Hudock | LinkedIn")  
 
 ## SKILLS
 

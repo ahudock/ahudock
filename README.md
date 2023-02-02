@@ -54,8 +54,8 @@ Music Ed + Performance [***  ]
 ### Full-Stack Developer, Audient Consulting (Portland, OR), 2007--2014
 - LAMP, Windows, IIS, ColdFusion sysadmin and programming, frontend development
 - Flash development and ActionScript programming
-- Successfully designed, built, and maintained several new online ventures
 - Web and graphic design (interfaces, brochures, flyers, business cards, etc.)
+- Successfully designed, built, and maintained several new online ventures
 
 ### Freelance Educator, J. Random LLC (global), 1998--present
 - Music/Visual Instructor for numerous award-winning high school bands
@@ -80,8 +80,8 @@ Music Ed + Performance [***  ]
 - World Champion as an instructor
 
 ### SFRC (Sang Froid Riding Club) Bol d'Oregon Spirit Award, 2018
-- Team persevered to finish endurance race in challenging conditions
-  on a 1968 Honda CL175 in serious disrepair (and nearly weren't last)
+- Team persevered to finish endurance race despite challenging conditions
+  and a 1968 Honda CL175 in serious disrepair (and nearly weren't last)
 
 ### OMRRA (Oregon Motorcycle Roadracing Association) Vintage Champion, 2020
 - 1966 Honda CB160RR
@@ -97,10 +97,9 @@ Music Ed + Performance [***  ]
 ColdFusion, virtualization, VirtualBox, VMware, firewall, iptables, OpenVPN,
 DNS, DevOps, PHP, MySQL, API, WebSocket, HTML5, CSS3, LESS, SCSS, JavaScript,
 jQuery, AJAX, RWD, accessibility, SEO, PageSpeed, analytics, Git, SVN, Python,
-UI, UX, CI, Magento 1, Magento 2, OpenMage, Drupal, WordPress, forensics, Kali,
-pen testing, Metasploit, web design, graphic design, logo design, branding,
-photography, recording, audio engineering, Photoshop, Illustrator, Ableton,
-overclocking, trading, quantitative analysis, derivatives, options, futures,
+UI, UX, CI, Magento, OpenMage, Drupal, WordPress, forensics, Kali, pen testing,
+Metasploit, branding, photography, Photoshop, Illustrator, recording, audio
+engineering, overclocking, quantitative analysis, trading, derivatives,
 thinkScript, etm*
 
 > I, for one, welcome our new omniscient AI overlords

@@ -32,14 +32,14 @@ Music Ed + Performance [***  ]
 
 ### Freelance Full-Stack Developer, J. Random LLC (global), 2008--present
 - Programming, sysadmin, cybersecurity, and design, for various IT agencies
-  and standalone clients, including Argyle Winery, Travel Oregon, Erickson,
-  Kettle Chips, Stages Cycling, ASICS SBA, eDealer, ITPDX, Harlo Interactive,
-  ThreeProng, Premier Cru Solutions, and more
+  and standalone clients, including Argyle Winery, Travel Oregon, Erickson AV,
+  Kettle Chips, Stages Cycling, ASICS SBA, eDealer, ITPDX, ThreeProng,
+  Premier Cru Solutions, Harlo Interactive, and more
 - Generalist, but most experienced in LEMP/LAMP and frontend development
-- Accurately translated design and marketing requirements into software
-- Worked effectively in fully-remote environment with limited direction
-- Engaged in continuous education to learn relevant technologies as needed
-- Guiding principles: security-focused design, form follows function
+- Accurately translates design and marketing requirements into software
+- Works effectively in fully-remote environment with limited direction
+- Core design principles: Security-first and Form Follows Function
+- Eager learner, strives to be a conscientious worker and good human being
 
 ### HW/SW Technician, Intel Corp (Hillsboro, OR), 2005--2006
 - Contract hardware and software technician for the CPU Satellite
@@ -91,7 +91,7 @@ Music Ed + Performance [***  ]
 
 ### Eagle Scout, 1994
 
-## KEYWORD SPAM
+## TECH STACK / KEYWORD SPAM
 
 *LAMP, LEMP, Linux, Windows, macOS, AWS, EC2, DigitalOcean, Nginx, Apache, IIS,
 ColdFusion, virtualization, VirtualBox, VMware, firewall, iptables, OpenVPN,

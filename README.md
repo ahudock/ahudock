@@ -11,7 +11,7 @@
 
 ## SKILLS
 
-**Versatility, adaptability, creativity and persistence**
+**Versatility, adaptability, creativity and perseverance**
 
 ```
 SysAdmin               [**** ]

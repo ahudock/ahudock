@@ -11,8 +11,6 @@
 
 ## SKILLS
 
-**Versatility, adaptability, creativity and perseverance**
-
 - Versatility, adaptability, creativity and perseverance
 - Excellent teamwork, collaboration, and leadership
 - Communicates effectively with colleagues, clients, stakeholders, and users

@@ -11,33 +11,21 @@ github.com/ahudock
 
 SKILLS
 
-Versatility, adaptability, creativity and perseverance
-
-SysAdmin               [**** ]
-Web Development        [**** ]
-eCommerce + CMS        [**** ]
-CyberSecurity          [**   ]
-IT + Networks          [***  ]
-Data Science           [*    ]
-StackOverflow          [*****]**
-Project Management     [**   ]
-Art + Design           [**   ]
-Custom PC              [*****]
-Quant + Trading        [**   ]
-Music Ed + Performance [***  ]
+- Versatility, adaptability, creativity and perseverance
+- Excellent teamwork, collaboration, and leadership
+- Communicates effectively with colleagues, clients, stakeholders, and users
+- Works efficiently with distributed teams in a fully-remote environment
+- Accurately translates design and marketing requirements into software
+- Ability to dig in and solve problems given limited direction or background
+- IT generalist, but most experienced in LEMP/LAMP and frontend development
+- Eager learner who strives to be a conscientious worker and good human being
 
 EXPERIENCE
 
 Freelance Full-Stack Developer, J. Random LLC (global), 2008--present
-- Programming, sysadmin, cybersecurity, and design, for various IT agencies
-  and standalone clients, including Argyle Winery, Travel Oregon, Erickson AV,
-  Kettle Chips, Stages Cycling, ASICS SBA, eDealer, ITPDX, ThreeProng,
-  Premier Cru Solutions, Harlo Interactive, and more
-- Generalist, but most experienced in LEMP/LAMP and frontend development
-- Accurately translates design and marketing requirements into software
-- Works effectively in fully-remote environment with limited direction
-- Core design principles: Security-first and Form Follows Function
-- Eager learner, strives to be a conscientious worker and good human being
+- Programming, sysadmin, infosec/cybersecurity, design, IT consulting, and
+  project management, sometimes for standalone clients but predominantly as a 
+  member of the small, close-knit engineering teams of a few PNW-based agencies
 
 HW/SW Technician, Intel Corp (Hillsboro, OR), 2005--2006
 - Contract hardware and software technician for the CPU Satellite
@@ -65,7 +53,7 @@ EDUCATION
 
 University of Oregon (Eugene, OR), 2004
 - B.S. Multimedia Design
-- Minors: Computer Information Technology + Business Administration
+- Minors in Computer Information Technology, Business Administration
 - Green Garter Band (soloist, full-ride music scholarship)
 
 ACCOMPLISHMENTS
@@ -89,16 +77,18 @@ Southridge High School Marching Ensemble (Beaverton, OR), 2006--2012
 
 Eagle Scout, 1994
 
-KEYWORD SPAM
+TECH STACK / KEYWORD SPAM
 
-LAMP, LEMP, Linux, Windows, macOS, AWS, EC2, DigitalOcean, Nginx, Apache, IIS,
-ColdFusion, virtualization, VirtualBox, VMware, firewall, iptables, OpenVPN,
-DNS, DevOps, PHP, MySQL, API, WebSocket, HTML5, CSS3, LESS, SCSS, JavaScript,
-jQuery, AJAX, RWD, accessibility, SEO, PageSpeed, analytics, Git, SVN, Python,
-UI, UX, CI, Magento, OpenMage, Drupal, WordPress, forensics, Kali, pen testing,
-Metasploit, branding, photography, Photoshop, Illustrator, recording, audio
-engineering, overclocking, quantitative analysis, trading, derivatives,
-thinkScript, etm
+Linux, Windows, macOS, AWS, EC2, DigitalOcean, Nginx, Apache, IIS, ColdFusion, virtualization, VirtualBox, VMware, Parallels, firewall, iptables, OpenVPN, DNS, DevOps, PHP, MySQL, API, WebSocket, HTML, HTML5, CSS, CSS3, LESS, JavaScript, jQuery, Prototype, AJAX, RWD, accessibility, SEO, PageSpeed, analytics, UI, UX, CI, Git, GitHub, BitBucket, SVN, Magento, OpenMage, Drupal, WordPress, forensics, Kali, pen testing, Metasploit, branding, logo design, graphic design, web design, print media, photography, Photoshop, Illustrator, recording, audio engineering, Ableton Live, Push, overclocking, quantitative analysis, derivatives, trading, thinkScript, etm
+
+
+
+
+
+
+
+
+
 
 
 > I, for one, welcome our new omniscient AI overlords

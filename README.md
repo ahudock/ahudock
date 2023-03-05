@@ -35,7 +35,7 @@
 - Contract hardware and software technician for the CPU Satellite
 - Built, tested, troubleshot, debugged bleeding-edge hardware components
 - Worked with various operating systems, VMs, and software platforms
-- Spearheaded several performance and energy-efficiency projects
+- Spearheaded several performance and energy-efficiency studies
 
 ### Web Developer, U.S. Bank (Gresham, OR), 2009--2010
 - Contract ColdFusion programming and frontend development to renovate and

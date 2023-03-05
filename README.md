@@ -16,16 +16,19 @@
 - Communicates effectively with colleagues, clients, stakeholders, and users
 - Works efficiently with distributed teams in a fully-remote environment
 - Accurately translates design and marketing requirements into software
-- Ability to dig in and solve problems given limited direction or background
+- Resourcefulness in solving problems given little context or background info
 - IT generalist, but most experienced in LEMP/LAMP and frontend development
 - Eager learner who strives to be a conscientious worker and good human being
 
 ## EXPERIENCE
 
 ### Freelance Full-Stack Developer, J. Random LLC (global), 2008--present
-- Programming, sysadmin, infosec/cybersecurity, design, IT consulting, and
-  project management, sometimes for standalone clients but predominantly as a 
-  member of the small, close-knit engineering teams of a few PNW-based agencies
+- Programming, sysadmin, InfoSec, design, IT consulting, project management
+- Built, secured, and administered servers, usually baremetal/CentOS and AWS EC2
+- Designed, built, customized, and troubleshot wide variety of websites
+- Served a culturally and geographically diverse clientele, sometimes
+  independently but mostly as a member of the close-knit engineering teams of
+  two small PNW-based agencies (~13 years at ITPDX LLC, 2+ at ThreeProng LLC)
 
 ### HW/SW Technician, Intel Corp (Hillsboro, OR), 2005--2006
 - Contract hardware and software technician for the CPU Satellite

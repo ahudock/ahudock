@@ -69,8 +69,8 @@
 - World Champion as an instructor
 
 ### SFRC (Sang Froid Riding Club) Bol d'Oregon Spirit Award, 2018
-- Team persevered to finish endurance race despite challenging conditions
-  and a 1968 Honda CL175 in serious disrepair (and nearly weren't last)
+- Team persevered to finish endurance race despite challenging conditions and
+  our stock 1968 Honda CL175 in serious disrepair (and nearly weren't last)
 
 ### OMRRA (Oregon Motorcycle Roadracing Association) Vintage Champion, 2020
 - 1966 Honda CB160RR

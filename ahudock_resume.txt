@@ -17,7 +17,7 @@ SKILLS
 - Works efficiently with distributed teams in a fully-remote environment
 - Accurately translates design and marketing requirements into software
 - Resourcefulness in solving problems given little context or background info
-- IT generalist, experienced LEMP/LAMP/frontend development and sysadmin
+- IT generalist, most experienced LEMP/LAMP/frontend development and sysadmin
 - Eager learner who strives to be a conscientious worker and good human being
 
 EXPERIENCE

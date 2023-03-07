@@ -11,13 +11,13 @@ github.com/ahudock
 
 SKILLS
 
-- Versatility, adaptability, creativity and perseverance
+- Versatility, adaptability, creativity, curiosity, and perseverance
 - Excellent teamwork, collaboration, and leadership
 - Communicates effectively with colleagues, clients, stakeholders, and users
 - Works efficiently with distributed teams in a fully-remote environment
 - Accurately translates design and marketing requirements into software
 - Resourcefulness in solving problems given little context or background info
-- IT generalist, but most experienced in LEMP/LAMP and frontend development
+- IT generalist, experienced LEMP/LAMP/frontend development and sysadmin
 - Eager learner who strives to be a conscientious worker and good human being
 
 EXPERIENCE
@@ -27,10 +27,10 @@ Freelance Full-Stack Developer, J. Random LLC (global), 2008--present
   web and graphic design, audio engineering, and project management, serving a
   culturally and geographically diverse clientele, sometimes independently but
   predominantly as part of the two small, close-knit PNW-based engineering teams
-  of ITPDX (13 years) and ThreeProng (2+ years)
+  of ITPDX (12 years) and ThreeProng (2 years)
 - Configured and administered web servers (mainly baremetal/CentOS and AWS EC2)
 - Designed, built, customized, and troubleshot mission-critical websites and
-  eCommerce platforms (especially Magento) across a wide range of sectors
+  eCommerce platforms (lots of Magento) across a wide range of sectors
 - Modified existing code, integrated third-party modules/APIs, and developed new
   systems as needed to satisfy each client's unique business requirements
 - Worked with web and graphic designers to understand their aesthetic logic and

@@ -36,7 +36,7 @@
 - Worked with web and graphic designers to understand their aesthetic logic and
   extend it throughout various apps, branding, and print media
 - Coordinated with executives, project managers, designers, and engineers to
-  accurately scope, estimate, execute, and deliver projects
+  accurately scope, estimate, execute, and deliver complex projects
 - Led SEO audits, adapted to evolving best practices, leveraged search
   analytics, keyword phrase data, site performance, and other metrics to improve
   pagespeed, accessibility, social engagement, and RWD, reduce network traffic,

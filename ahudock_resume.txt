@@ -23,11 +23,11 @@ SKILLS
 EXPERIENCE
 
 Freelance Full-Stack Developer, J. Random LLC (global), 2008--present
-- Programming, sysadmin, cybersecurity, IT consulting, DNS, network engineering,
+- Programming, sysadmin, cybersecurity, RDBMS, IT, DNS, network engineering,
   web and graphic design, audio engineering, and project management, serving a
   culturally and geographically diverse clientele, sometimes independently but
   predominantly as part of the two small, close-knit PNW-based engineering teams
-  of ThreeProng (2+ years) and the now-retired ITPDX (13 years)
+  of ITPDX (13 years) and ThreeProng (2+ years)
 - Configured and administered web servers (mainly baremetal/CentOS and AWS EC2)
 - Designed, built, customized, and troubleshot mission-critical websites and
   eCommerce platforms (especially Magento) across a wide range of sectors
@@ -37,9 +37,9 @@ Freelance Full-Stack Developer, J. Random LLC (global), 2008--present
   extend it throughout various apps, branding, and print media
 - Coordinated with executives, project managers, designers, and engineers to
   accurately scope, estimate, execute, and deliver projects
-- Led SEO audits, adapted to evolving best practices, leveraged search
-  analytics, keyword phrase data, site performance, and other metrics to improve
-  pagespeed, accessibility, social engagement, and RWD, reduce network traffic,
+- Led SEO audits, adapted to evolving best practices, leveraged analytics,
+  keyword phrase data, site performance, and other metrics to improve pagespeed,
+  accessibility, social engagement, and organic search, reduce network traffic,
   query times, and CPU loads, optimize site structure and content delivery,
   wrote/edited copy, and ultimately boosted page rank and increased conversions
 - Communicated directly with end users to troubleshoot issues, or discover their

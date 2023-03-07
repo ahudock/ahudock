@@ -23,11 +23,11 @@
 ## EXPERIENCE
 
 ### Freelance Full-Stack Developer, J. Random LLC (global), 2008--present
-- Programming, sysadmin, cybersecurity, IT consulting, DNS, network engineering,
+- Programming, sysadmin, cybersecurity, RDBMS, IT, DNS, network engineering,
   web and graphic design, audio engineering, and project management, serving a
   culturally and geographically diverse clientele, sometimes independently but
   predominantly as part of the two small, close-knit PNW-based engineering teams
-  of ThreeProng (2+ years) and the now-retired ITPDX (13 years)
+  of ITPDX (13 years) and ThreeProng (2+ years)
 - Configured and administered web servers (mainly baremetal/CentOS and AWS EC2)
 - Designed, built, customized, and troubleshot mission-critical websites and
   eCommerce platforms (especially Magento) across a wide range of sectors

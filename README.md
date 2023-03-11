@@ -1,6 +1,6 @@
 # ANDY HUDOCK
 
-### Full-Stack Developer with 16 years experience turning coffee into code
+### Full-Stack Engineer with 16 years experience turning coffee into code
 
 [Gulf Canyon, Oregon](https://goo.gl/maps/r2EFWcvepfLCf2CM8 "Open Gulf Canyon, Oregon in Google Maps")  
 [ahudock@pm.me](mailto:ahudock@pm.me "Email Andy Hudock")  

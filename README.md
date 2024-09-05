@@ -1,7 +1,7 @@
 # Andy Hudock
 
 ## Full-Stack Developer
-Programming, sysadmin, cybersecurity, web/graphic/print design
+Programming * Sysadmin * Infosec * Design
 
 ---
 
